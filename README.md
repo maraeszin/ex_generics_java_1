@@ -1,5 +1,3 @@
-Aqui está o conteúdo do arquivo formatado e limpo. Você só precisa copiar o texto do bloco abaixo e colar direto dentro do seu arquivo `README.md`:
-
 ```markdown
 # Sistema de Gerenciamento de Estoque de Hardware 🖥️📦
 
